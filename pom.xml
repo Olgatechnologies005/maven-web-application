@@ -83,12 +83,12 @@
         <repository>
             <id>nexus</id>
             <name>Mithun Technologies Releases Nexus Repository</name>
-            <url</10.0.29.89:8081/http://13.234.20.126:8081/repository/maven-snapshot-sek/url>
+            <url</http://10.0.29.89:8081/repository/maven-snapshot-sek/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
             <name>Mithun Technologies Snapshot Nexus Repository</name>
-            <url>http://172.31.31.37:8081/repository/jenkins-maven-nexus-snapshot/</url>
+            <url>http://10.0.29.89:8081/repository/maven-snapshot-sek//</url>
         </snapshotRepository>
     </distributionManagement>
 
